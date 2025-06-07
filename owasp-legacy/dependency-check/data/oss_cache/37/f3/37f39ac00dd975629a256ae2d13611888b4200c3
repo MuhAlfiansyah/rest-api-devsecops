@@ -1,0 +1,1 @@
+{"coordinates":"pkg:npm/exit@0.1.2","description":"A replacement for process.exit that ensures stdio are fully drained before exiting.","reference":"https://ossindex.sonatype.org/component/pkg:npm/exit@0.1.2?utm_source\u003ddependency-check\u0026utm_medium\u003dintegration\u0026utm_content\u003d8.4.0","vulnerabilities":[],"sonatypeOssiScore":0.0}
